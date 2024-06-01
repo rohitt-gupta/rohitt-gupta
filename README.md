@@ -8,4 +8,4 @@
 - Primary stack - Javascript(TS), Reactjs, Nextjs, Nodejs, Java SpringBoot and Cpp.
 - Mentor at [DominateTwitter Club](https://twitter.com/dominateXclub)
 - Internships, Bounties, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
-- I can help you convert your ideas into webapp, hit me up at [pta.rohit28@gmail.com](mailto:pta.rohit28@gmail.com)
+- I can help you convert your ideas into SAAS, hit me up at [pta.rohit28@gmail.com](mailto:pta.rohit28@gmail.com)
