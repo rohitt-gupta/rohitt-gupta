@@ -7,5 +7,6 @@
 - Software engineer and freelancer, who focus on building solutions rather than code.
 - Primary stack - Javascript(TS), Reactjs, Nextjs, Nodejs, Java SpringBoot and Cpp.
 - Mentor at [DominateTwitter Club](https://twitter.com/dominateXclub)
-- Internships, Bounties, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
+- Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
 - I can help you convert your ideas into SAAS, hit me up at [pta.rohit28@gmail.com](mailto:pta.rohit28@gmail.com)
+- Github >>> Twitter or maybe vice versa, who knows :)
