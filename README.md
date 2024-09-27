@@ -4,7 +4,7 @@
 </a>
 <br>
 
-- Software engineer and freelancer, who focus on building products.
+- Software engineer, who focus on building products.
 - Primary stack - Javascript(TS), Reactjs, Nextjs, Nodejs, Java SpringBoot and Cpp.
 - Mentor at [DominateTwitter Club](https://twitter.com/dominateXclub)
 - Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
