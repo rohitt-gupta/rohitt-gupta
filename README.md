@@ -4,7 +4,8 @@
 </a>
 <br>
 
-- Software engineer, who focus on building products.
+- Software engineer, Super curious about WEB frontend or backend both.
+- I enjoy building web applications which impacts real world and solves someone's problem.
 - Primary stack - Javascript(TS), Reactjs, Nextjs, Nodejs, Java SpringBoot and Cpp.
 - Mentor at [DominateTwitter Club](https://twitter.com/dominateXclub)
 - Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
