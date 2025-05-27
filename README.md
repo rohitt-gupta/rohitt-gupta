@@ -4,10 +4,9 @@
 </a>
 <br>
 
-- Software engineer, Super curious about WEB frontend or backend both.
-- I enjoy building web applications which impacts real world and solves someone's problem.
-- Primary stack - Javascript(TS), Reactjs, Nextjs, Nodejs, Java SpringBoot and Cpp.
-- Mentor at [DominateTwitter Club](https://twitter.com/dominateXclub)
+- Software engineer, super curious about engineering.
+- I enjoy building web applications that impact the real world and solve someone's problem.
+- Primary stack - Typescript, Reactjs, Nextjs, Nodejs.
 - Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
 - I can help you convert your ideas into SAAS, hit me up at [pta.rohit28@gmail.com](mailto:pta.rohit28@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
