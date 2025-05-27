@@ -5,8 +5,8 @@
 <br>
 
 - Software engineer, super curious about engineering.
-- I enjoy building web applications that impact the real world and solve someone's problem.
-- Primary stack - Typescript, Reactjs, Nextjs, Nodejs.
-- Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/whyrohitwhy)
+- Building applications at scale.
+- **Typescript, Reactjs, Nextjs, Nodejs.**
+- Shitposting at [Twitter](https://twitter.com/whyrohitwhy)
 - I can help you convert your ideas into SAAS, hit me up at [pta.rohit28@gmail.com](mailto:pta.rohit28@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
